@@ -1,5 +1,4 @@
 # MS Dhoni Cricket Career Dashboard – Power BI
-
 ## Project Overview
 This project focuses on analyzing MS Dhoni's complete cricket career performance using Power BI. The dashboard provides interactive visualizations to explore his batting and fielding performance across different cricket formats.
 
